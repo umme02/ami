@@ -4,7 +4,7 @@ import {Text, View} from "react-native";
 const App = () => {
   return (
       <View>
-          <Text>SALMA APA</Text>
+          <Text>SALMA APA hi apa</Text>
         
       </View>
   );
